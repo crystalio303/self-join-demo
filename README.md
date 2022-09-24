@@ -1,1 +1,1 @@
-# self-join-demo
+# Test page
